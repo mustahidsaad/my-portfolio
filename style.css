@@ -1,3 +1,21 @@
 body{
-    background-color: aquamarine;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+    font-weight: 500;
+}
+.font-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+    text-align: left;
+    
+}
+.half-width img{
+    width: 100%;
 }
